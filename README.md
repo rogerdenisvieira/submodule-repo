@@ -1,1 +1,1 @@
-# submodule-repo
+# This is a submodule readme
